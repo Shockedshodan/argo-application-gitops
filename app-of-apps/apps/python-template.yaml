@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: python-template
+  name: python-template-example
   namespace: argocd
   finalizers:
   - resources-finalizer.argocd.argoproj.io
