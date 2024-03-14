@@ -11,5 +11,6 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: https://shockedshodan.github.io/template-python-test/charts-repo
+    repoURL: https://shockedshodan.github.io/template-python-test/charts-repo/
+    chart: app
     targetRevision: 0.1.0-dev.0.main.aca0e4da 
