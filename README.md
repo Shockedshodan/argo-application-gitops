@@ -1,0 +1,1 @@
+## Simple gitops argo playground
